@@ -1,0 +1,6 @@
+.env
+npm-debug.log
+node_modules
+public/bower_components
+public/img/uploads
+node_modules
